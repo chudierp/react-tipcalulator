@@ -1,0 +1,33 @@
+.FlexContainer {
+    display: flex;
+  }
+  
+  .FlexChild {
+    flex: 1;
+    margin: 1em;
+  }
+  
+  .FlexChild:first-child {
+    margin-right: 100px;
+  }
+  
+  .Calculations > h2 {
+    font-size: 2em;
+  }
+  
+  .Calculations > p {
+    text-decoration: underline;
+  }
+  
+  .Inputs label > p {
+    font-weight: bold;
+    color: #708090;;
+  }
+  
+  input {
+    font-size: 2em;
+  }
+  
+  h2 {
+    padding-bottom: 0.75em;
+  }
